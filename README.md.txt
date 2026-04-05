@@ -1,8 +1,2 @@
-agentive_ai_pm_fydp/
- ├── AI_Prototype/
- │    └── README.md
- ├── Screenshots/
- │    └── README.md
- ├── Docs/
- │    └── README.md
- └── README.md
+# Screenshots
+This folder will store UI screenshots of the AI-generated website prototype.
